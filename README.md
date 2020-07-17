@@ -8,7 +8,7 @@
 
 
 - ⭐ Habilidades: HTML, CSS, JavaScript, Java, SpringBoot, Ruby.
-- 📚 Atualmente aprendendo Ruby, Cucumber, testes automatizados.
+- 📚 Atualmente aprendendo Ruby, Cucumber e testes automatizados.
 - 🎮 No meu tempo livre, costumo jogar, estudar, assistir séries e filmes.
 
 
