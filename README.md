@@ -7,7 +7,7 @@
 
 
 
-- ⭐ Habilidades: HTML, CSS, JavaScript, Java, SpringBoot, Ruby.
+- ⭐ Habilidades: Java, SpringBoot.
 - 📚 Atualmente estudando REST-Assured, Node.js.
 - 🎮 No meu tempo livre, costumo jogar, estudar, assistir séries e filmes.
 
