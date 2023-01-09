@@ -21,15 +21,13 @@
   <img align="center" alt="Valnei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 ![Snake animation](https://github.com/ValneiPereira/ValneiPereira/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div> 
  
- 
-### :eyes: Visualizações do perfil 
-<!-- <p align="center">
+<!-- ### :eyes: Visualizações do perfil 
+<p align="center">
  
 ![Visitor Count](https://profile-counter.glitch.me/{ValneiPereira}/count.svg)
 </p> -->
-
 
 
  
