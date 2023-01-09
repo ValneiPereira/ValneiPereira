@@ -25,10 +25,10 @@
  
  
 ### :eyes: Visualizações do perfil 
-<p align="center">
+<!-- <p align="center">
  
 ![Visitor Count](https://profile-counter.glitch.me/{ValneiPereira}/count.svg)
-</p>
+</p> -->
 
 
 
