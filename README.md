@@ -29,7 +29,7 @@
 
 ## 🧰 Tecnologias que uso
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,redux,express,nestjs,java,spring,docker,git,postgres,mysql,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,spring,docker,git,postgres,mysql,linux,vscode,idea,gitlab,maven,mongodb,postman" />
 </p>
 
 ---
