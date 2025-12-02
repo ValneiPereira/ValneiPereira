@@ -1,33 +1,41 @@
- ### ☕ Olá! Bem vindo ao meu perfil!
- 
- 
+<h1 align="center">Olá, eu sou o Valnei Pereira 👋</h1>
 
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, criação de soluções modernas.
+</p>
+
+---
+
+## 🚀 Sobre mim
+- 💻 Desenvolvedor focado em soluções web, APIs e automações.  
+- 🔧 Interesse forte por backend, arquitetura e infraestrutura.  
+- 📚 Sempre aprendendo novas tecnologias e boas práticas.  
+
+---
+
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ValneiPereira&theme=onedark&column=6" />
+</p>
+
+
+## 📊 Stats alternativas estáveis
+<p align="center">
+  <img src="https://metrics.lecoq.io/ValneiPereira?template=classic&base=header%2Cactivity%2Crepositories&config.timezone=America%2FSao_Paulo" />
+</p>
+
+---
+![Snake animation](https://github.com/ValneiPereira/ValneiPereira/blob/output/github-contribution-grid-snake.svg)
+
+## 🧰 Tecnologias que uso
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,redux,express,nestjs,java,spring,docker,git,postgres,mysql,linux,vscode" />
+</p>
+
+---
+
+## 📬 Contato
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valneipereirabarboza/)](https://www.linkedin.com/in/valneipereirabarboza/) [![Gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valneipereirabarboza@gmail.com)](mailto:valneipereirabarboza@gmail.com)
 
-- ⭐ Habilidades: Java, SpringBoot.
-- 🎮 No meu tempo livre, costumo jogar, estudar, assistir séries e filmes.
-
-<div align="center">
-  <a href="https://github.com/ValneiPereira">
-  <img src="https://metrics.lecoq.io/ValneiPereira?template=classic&base=header%2Cactivity&config.timezone=America%2FSao_Paulo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValneiPereira&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Valnei-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Valnei-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img align="center" alt="Valnei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Valnei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Valnei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-![Snake animation](https://github.com/ValneiPereira/ValneiPereira/blob/output/github-contribution-grid-snake.svg)
-</div> 
- 
-<!-- ### :eyes: Visualizações do perfil 
-<p align="center">
- 
-![Visitor Count](https://profile-counter.glitch.me/{ValneiPereira}/count.svg)
-</p> -->
-
-
- 
+---
+<p align="center">Feito com 💙 por Valnei Pereira</p>
