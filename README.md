@@ -11,12 +11,6 @@
 - 🔧 Interesse forte por backend, arquitetura e infraestrutura.  
 - 📚 Sempre aprendendo novas tecnologias e boas práticas.  
 
----
-
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ValneiPereira&theme=onedark&column=6" />
-</p>
 
 
 ## 📊 Stats alternativas estáveis
