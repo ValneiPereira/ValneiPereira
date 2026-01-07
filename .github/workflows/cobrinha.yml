@@ -16,5 +16,19 @@ jobs:
           user: ValneiPereira
           template: classic
 
-          base: repositories
+          # Base limpa (sem contadores sociais)
+          #base: repositories
+
+          # Mostra linguagens (backend-focused)
+          languages: yes
+          languages_details: percentage
+          languages_limit: 6
+          languages_threshold: 2%
+          languages_categories: backend, frontend
+          languages_colors: github
+
+          # Ignora ruído comum
+          languages_ignored: html, css
+
+          # Timezone correta
           config_timezone: America/Sao_Paulo
