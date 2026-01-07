@@ -15,7 +15,7 @@
 
 ## 📊 Stats alternativas estáveis
 <p align="center">
-  <img src="https://metrics.lecoq.io/ValneiPereira?template=classic&base=header%2Cactivity%2Crepositories&config.timezone=America%2FSao_Paulo" />
+  ![Metrics](./github-metrics.svg)
 </p>
 
 ---
