@@ -23,7 +23,8 @@
 
 
 ---
-![Snake animation](https://github.com/ValneiPereira/ValneiPereira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ValneiPereira/ValneiPereira/output/github-contribution-grid-snake.svg)
+
 
 ## 🧰 Tecnologias que uso
 <p align="left">
