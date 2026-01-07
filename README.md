@@ -13,7 +13,6 @@
 
 
 
-## 📊 Stats alternativas estáveis
 ![Metrics](https://raw.githubusercontent.com/ValneiPereira/ValneiPereira/master/github-metrics.svg)
 
 ---
