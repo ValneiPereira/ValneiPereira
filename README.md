@@ -11,13 +11,6 @@
 - 🔧 Interesse forte por backend, arquitetura e infraestrutura.  
 - 📚 Sempre aprendendo novas tecnologias e boas práticas.  
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ValneiPereira/ValneiPereira/master/github-metrics.svg" alt="Metrics" />
-</p>
-
-
 ---
 ![Snake animation](https://raw.githubusercontent.com/ValneiPereira/ValneiPereira/output/github-contribution-grid-snake.svg)
 
