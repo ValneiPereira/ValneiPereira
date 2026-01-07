@@ -14,9 +14,9 @@
 
 
 ## 📊 Stats alternativas estáveis
-<p align="center">
-  ![Metrics](./github-metrics.svg)
-</p>
+
+![Metrics](./github-metrics.svg)
+
 
 ---
 ![Snake animation](https://github.com/ValneiPereira/ValneiPereira/blob/output/github-contribution-grid-snake.svg)
