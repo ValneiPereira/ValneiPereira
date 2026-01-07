@@ -15,7 +15,10 @@
 
 ## 📊 Stats alternativas estáveis
 
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
+
 
 
 
