@@ -16,5 +16,5 @@ jobs:
           user: ValneiPereira
           template: classic
 
-          base: header, repositories
+          base: repositories, activity
           config_timezone: America/Sao_Paulo
