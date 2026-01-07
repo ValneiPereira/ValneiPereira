@@ -16,10 +16,8 @@
 ## 📊 Stats alternativas estáveis
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/ValneiPereira/ValneiPereira/main/github-metrics.svg" alt="Metrics" />
 </p>
-
-
 
 
 ---
